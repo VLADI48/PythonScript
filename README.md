@@ -10,6 +10,6 @@ Task: Write a python script
 
 3.	The script generates a static HTML web page from the given data
 
-4.	Received data must be added as tags (<p>, <div>, etc.) to the <body> block
+4.	Received data must be added as tags (< p>, < div>, etc.) to the <body> block
 
 5.	Generated HTML page should be served by WEB server
